@@ -40,7 +40,7 @@ Currently, all of my repositories are private. I will make them public once I ha
 
 ## 🛠️ Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,anaconda,redis,postgres&c=4&bg=1&size=100)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,nodejs,anaconda,redis,postgres&c=4&bg=1&size=100)
 
 ---
 ## Projects
