@@ -2,7 +2,7 @@
     <h1> Hey there! I'm Steby 👋</h1>
 </div>
 
-<p>Hi there! I'm a Computer Science student passionate about programming. I am always looking for opportunities to learn and contribute to the community.</p>
+<p>Hi there! I'm a Computer Science student enjoying programming. I am always looking for opportunities to learn and contribute to the community.</p>
 <div align="center">
     <a href="https://discord.com/users/688997978391969873">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat_square" alt="Discord">
