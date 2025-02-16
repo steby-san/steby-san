@@ -32,9 +32,9 @@ Currently, all of my repositories are private. I will make them public once I ha
 ![steby's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=steby-san&theme=tokyonight&layout=compact)
 
 ---
-## 🚀 Tech
+## 🚀 Tech (currently learning)
 
-![Tech (currently learning)](https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,html,css,react,vite,next,typescript,tailwind&c=4&bg=1&size=100)
+![Tech](https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,html,css,react,vite,next,typescript,tailwind&c=4&bg=1&size=100)
 
 ---
 
