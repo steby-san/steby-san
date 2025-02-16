@@ -34,7 +34,7 @@ Currently, all of my repositories are private. I will make them public once I ha
 ---
 ## 🚀 Tech
 
-![Tech](https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,html,css,react,vite,next,typescript,tailwind&c=4&bg=1&size=100)
+![Tech (currently learning)](https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,html,css,react,vite,next,typescript,tailwind&c=4&bg=1&size=100)
 
 ---
 
